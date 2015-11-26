@@ -1,12 +1,15 @@
-#-*- mode: org; -*-
-#+DATE: 2015-09-28 22:55:40.937627
-#+TITLE: 佛說兜沙經
-#+PROPERTY: CBETA_ID T10n0280
-#+PROPERTY: ID KR6e0028
-#+PROPERTY: SOURCE Taisho Tripitaka Vol. 10, No. 280
-#+PROPERTY: VOL 10
-#+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+TITLE: 佛說兜沙經 / CBETA
+#+DATE: 2015-11-26 14:10:53.720516
+* 版本
+ |     CBETA|【電子佛典集成】|
+ |         T|【大】     |
+ |    T@GONG|【大→宮】   |
+ |      T@LI|【大→麗】   |
+ |    T@MING|【大→明】   |
+ |    T@SONG|【大→宋】   |
+ |    T@YUAN|【大→元】   |
+ |       TKD|【高麗藏・東國影印版】|
 
-<pb:KR6e0028_T_000-0445a>¶
-
+* 目次
+* 卷
+** [[file:KR6e0028_001.txt][佛說兜沙經 1]]
