@@ -1,17 +1,16 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-09-28 22:55:40.972875
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 7:39
 #+TITLE: 佛說兜沙經
 #+PROPERTY: CBETA_ID T10n0280
 #+PROPERTY: ID KR6e0028
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 10, No. 280
 #+PROPERTY: VOL 10
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6e0028_T_001-0445a> 
 #+PROPERTY: JUAN 1
-No.280[Nos.278(3,5),279(7,9)]¶
-
- 《佛說兜沙經》一卷¶
+No. 280 [Nos. 278(3, 5), 279(7, 9)]¶
+《佛說兜沙經》一卷¶
 ¶
 後漢月氏三藏支婁迦讖譯¶
 
