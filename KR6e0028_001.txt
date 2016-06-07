@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-09-28 22:55:40.972875
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 7:39
 #+TITLE: 佛說兜沙經
 #+PROPERTY: CBETA_ID T10n0280
 #+PROPERTY: ID KR6e0028
